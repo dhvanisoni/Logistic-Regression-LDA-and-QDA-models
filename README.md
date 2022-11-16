@@ -29,7 +29,7 @@ The main difference is LDA has few hyperparameters that are important to change 
 LDA has better learning curve but in the case of QDA, the learning curve indicates that it has high variance and variables are collinear.
 In this case, as Levene test states, the same covariance between variables and also, dataset is smaller. so, LDA performs little bit better.  We can optimised model as more data will added.
 
-#### Conclusion
+### Conclusion
 
 To conclude, we see from comparison LDA and QDA model gives the same accuracy and AUC curve. Both are performed good.
 for the puropse we can use LDA and logistic regression for prediction.
